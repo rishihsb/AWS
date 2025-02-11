@@ -1,0 +1,6 @@
+customhost="empliyee.ctwsyk2qchdl.us-east-1.rds.amazonaws.com"
+customuser="rishi"
+custompass="Rishith@1234"
+customdb="employee"
+custombucket="rishith-employee-s3"
+customregion="us-east-1"
